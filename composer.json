@@ -1,0 +1,32 @@
+{
+    "name": "asus/serkom",
+	"description": "Serkom",
+	"keywords": [
+		"notif"
+	],
+	"homepage": "https://github.com/ngodings/serkom",
+	"license": [
+		"MIT",
+		"Apache-2.0"
+	],
+	"require": {
+		"php": "5.6|^7.0"
+	},
+	"require-dev": {
+		"php": "5.6|^7.0"
+	},
+    "authors": [
+        {
+            "name": "ngodings",
+            "email": "50858027+ngodings@users.noreply.github.com"
+        }
+	],
+	
+	"repositories": [ 
+		{
+			"type": "composer",
+			"url": "https://asset-packagist.org"
+	}
+]
+    
+}
